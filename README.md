@@ -1,6 +1,6 @@
 # AutEase
 
 A new Flutter-Firebase project.
-An app that provides a fun space for autistic children and parents
+An application that provides features for parents with children suffering from Autism Spectrum Disorder
 
 
